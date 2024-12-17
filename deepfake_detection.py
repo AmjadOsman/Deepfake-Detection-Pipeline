@@ -1,15 +1,5 @@
-# ===================== #
-# Deeplearning models #
-# ===================== #
-# Author:   Amjad Osman,  Simon Lim , Aania Rafi
-
-# Date:     18/4/2024
 
 # How to run:   python combined.py --prototxt [path_to_prototxt] --model [path_to_res10_300x300_ssd_iter_140000.caffemodel] --data-dir [path_to_data_directory] --run-all
-
-# ================= #
-
-
 
 import argparse
 import os
